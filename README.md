@@ -2,7 +2,7 @@ Overview<br>
 This project is a social media platform developed using Django for the backend and HTML/CSS for the frontend. The platform allows users to create profiles, post updates, follow other users, and interact with content through likes and comments.
 <br>
 Features<br>
-User Authentication (Sign Up, Log In, Log Out)<br>
+  User Authentication (Sign Up, Log In, Log Out)<br>
 User Profiles<br>
 Follow/Unfollow Users<br>
 Create, Edit, and Delete Posts<br>
